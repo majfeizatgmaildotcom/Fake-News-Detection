@@ -51,4 +51,9 @@ conda install -c anaconda pandas
 python3 main.py -f <main folder address for saving the variables> -d <dataset name: 'Twitter' or 'ISOT'> -a <top folder of dataset address containing ISOT and Twitter folders> -e <#epochs> -t <#topics> -i <#iterations> -l <#latent features>
 
 -f and -d and -a are mandatory
+ 
+## Paper
+<a href="https://github.com/majfeizatgmaildotcom/Fake-News-Detection/blob/f00008572eb703289202ab98f67cf1f2ae9c46c8/Fake%20News%20Detection%20by%20Variational%20Autoencoder%20Paper.pdf">PDF Document Viewer</a>
+<br>
+
 
