@@ -52,9 +52,9 @@ python3 main.py -f <main folder address for saving the variables> -d <dataset na
 
 -f and -d and -a are mandatory-->
  
-## Paper
+## The Paper
 <a href="https://github.com/majfeizatgmaildotcom/Fake-News-Detection/blob/f00008572eb703289202ab98f67cf1f2ae9c46c8/Fake%20News%20Detection%20by%20Variational%20Autoencoder%20Paper.pdf">PDF Document Viewer</a>
 <br>
 
-## Presentation Slides
-
+## The Presentation Slides
+<a href="https://github.com/majfeizatgmaildotcom/Fake-News-Detection/blob/d89372cbc4ae3038a03d0ae0905779a7ffcae1d1/Big%20Data%20Final%20Presentation.pdf">PDF Document Viewer</a>
