@@ -2,7 +2,7 @@
 
 With the growth of social media and user-generated content in the recent decade, people are more exposed to the news with unknown sources and fake content. However, validating the credibility of such information is not a trivial task for the majority of the users, and spreading false information could potentially lead to losses and crimes. As a result, it is essential to develop accurate techniques for distinguishing between fake and real news. Our contribution is proposing a multi-modal approach that aggregates the hidden representation of textual news using a variational autoencoder and topic-related features inferred from Latent Dirichlet Allocation (LDA) mixture model to achieve a more accurate and interpretable model. Due to the absence of multimedia and information about the author and spread pattern in many real-world news sources, we focus on extracting relevant features only from the textual content.
 
-**Requirements Installation Guide**
+<!-- **Requirements Installation Guide**
 
 Python 3.6
 
@@ -50,10 +50,11 @@ conda install -c anaconda pandas
 
 python3 main.py -f <main folder address for saving the variables> -d <dataset name: 'Twitter' or 'ISOT'> -a <top folder of dataset address containing ISOT and Twitter folders> -e <#epochs> -t <#topics> -i <#iterations> -l <#latent features>
 
--f and -d and -a are mandatory
+-f and -d and -a are mandatory-->
  
 ## Paper
 <a href="https://github.com/majfeizatgmaildotcom/Fake-News-Detection/blob/f00008572eb703289202ab98f67cf1f2ae9c46c8/Fake%20News%20Detection%20by%20Variational%20Autoencoder%20Paper.pdf">PDF Document Viewer</a>
 <br>
 
-
+## Presentation Slides
+<a href="https://github.com/majfeizatgmaildotcom/Fake-News-Detection/blob/b4d173564fe6f14e42145abcd6fded5aeb5e9041/Big%20Data%20Final%20Presentation.pptx">Power Point Viewer</a>
