@@ -57,4 +57,4 @@ python3 main.py -f <main folder address for saving the variables> -d <dataset na
 <br>
 
 ## Presentation Slides
-<a href="https://github.com/majfeizatgmaildotcom/Fake-News-Detection/blob/b4d173564fe6f14e42145abcd6fded5aeb5e9041/Big%20Data%20Final%20Presentation.pptx">Power Point Viewer</a>
+
